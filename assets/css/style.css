@@ -1,3 +1,5 @@
+/* inital css , fonts, *, body */
+
 @import url('https://fonts.googleapis.com/css2?family=Spectral:wght@300&display=swap');
 
 * {
@@ -10,5 +12,51 @@ body {
     font-family: Arial;
     font-family: 'Spectral', serif;
     font-weight: 300;
-    background: whitesmoke;
+    background: #faf5ef;
+}
+
+/* Heagings and Logo */
+
+h1,
+h2 {
+    font-family: 'Spectral', serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+#logo {
+    letter-spacing: 8px;
+    font-size: 400%;
+    float:left
+}
+
+/* Navigation links */
+
+#menu {
+    font-size: 150%;
+    letter-spacing: 2px;
+}
+
+#menu #logo {
+    line-height: 75px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+        }
+
+#menu a:hover {
+    border-bottom: 1px solid rgb(234, 14, 164);             /* come back to this */
+    font-size: 105%;
+}
+
+.active {
+    border-bottom: 1px solil rgb(234, 14, 164);
 }
