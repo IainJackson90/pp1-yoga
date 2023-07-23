@@ -27,7 +27,7 @@ h2 {
 #logo {
     letter-spacing: 8px;
     font-size: 400%;
-    float:left
+    float: left;
 }
 
 /* Navigation links */
@@ -50,13 +50,32 @@ h2 {
 #menu a {
     text-decoration: none;
     color: inherit;
-        }
+}
 
 #menu a:hover {
-    border-bottom: 1px solid rgb(234, 14, 164);             /* come back to this */
+    border-bottom: 1px solid rgb(234, 14, 164);
+    /* come back to this.......... */
     font-size: 105%;
 }
 
 .active {
-    border-bottom: 1px solil rgb(234, 14, 164);
+    border-bottom: 1px solid rgb(234, 14, 164);
+    /* come back to this.......... */
+}
+
+/* Hero Image */
+
+#hero-image-outer {
+    height: 700px;
+    width: 100%;
+    
+}
+
+#hero-image {               /* have to make this responsive to divrent sizes ........ */
+height: 100%;
+width: 100%;
+background: url(../images/2400-finding-peace-within-woman-meditating-in-cross-legged-yoga-pose-ai-generated.jpg) no-repeat;
+background-size: auto;
+background-position: bottom -200px center;
+
 }
