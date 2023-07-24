@@ -61,8 +61,8 @@ h2 {
 }
 
 #menu a:hover {
-   /* text-shadow: 1px 1px #ffd082;*/
-        /* come back to this.......... */
+    /* text-shadow: 1px 1px #ffd082;*/
+    /* come back to this.......... */
     font-size: 105%;
 }
 
@@ -89,7 +89,7 @@ h2 {
     width: 100%;
     background: url(../images/2400-finding-peace-within-woman-meditating-in-cross-legged-yoga-pose-ai-generated.jpg) no-repeat;
     background-size: cover;
-    background-position: bottom  center;
+    background-position: bottom center;
 }
 
 /* Cover text */
@@ -138,4 +138,44 @@ h2 {
     100% {
         transform: scale(0.9);
     }
+}
+
+/* Yoga content */
+
+#yoga-content {
+    margin: 30px;
+}
+
+#start-yoga {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+        }
+
+#stress-relief {
+    padding-top: 30px;
+    text-align: center;
+    float: left;
+    width: 50%;
+}
+
+#health {
+    padding-top: 30px;
+    text-align: center;
+    float: left;
+    width: 50%;
+}
+
+#energy {
+    padding-top: 30px;
+    text-align: center;
+    float: right;
+    width: 50%;
+}
+
+#comunity {
+    padding-top: 30px;
+    text-align: center;
+    float: right;
+    width: 50%;
 }
