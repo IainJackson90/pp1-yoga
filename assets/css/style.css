@@ -27,6 +27,8 @@ h2 {
 }
 
 #logo {
+    background-color: yellowgreen;
+
     margin-left: 30px;
     letter-spacing: 8px;
     font-weight: bold;
@@ -37,7 +39,7 @@ h2 {
 /* Navigation links */
 
 #menu {
-    font-size: 160%;
+  font-size: 160%;
     font-weight: bold;
     letter-spacing: 2px;
     color: black;
@@ -140,7 +142,7 @@ h2 {
     }
 }
 
-/* Yoga content ----*/
+/* Yoga content... content container ----*/
 
 #start-yoga {
     background-color: #fab73d;
@@ -203,6 +205,8 @@ h2 {
     overflow: none;
 }
 
+/* Second half of content.. content container 2 */
+
 .content-container2 {
     background-color: #fab73d;
 
@@ -215,8 +219,26 @@ h2 {
 }
 
 .content-container2 >p {
-    
+
     text-align: center;
 
     margin: 5px;
 }
+
+/* Table Opening and Closing hours */
+
+.opening-hours {
+    background-color: cornflowerblue;
+}
+
+.opening-hours>h2 {
+    text-align: center;
+
+    margin: 30px;
+}
+
+th, td {
+    padding: 5px;
+}
+
+
