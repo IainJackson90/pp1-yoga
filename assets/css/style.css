@@ -212,6 +212,7 @@ h2 {
 
     margin-top: 30px;
     margin-left: 30px;
+    margin-right: 30px;
 }
 
 .content-container2>h2 {
@@ -229,6 +230,8 @@ h2 {
 
 .opening-hours {
     background-color: cornflowerblue;
+
+    margin: 30px;
 }
 
 .opening-hours>h2 {
