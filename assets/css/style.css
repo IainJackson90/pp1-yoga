@@ -143,39 +143,54 @@ h2 {
 /* Yoga content   Top ----*/
 
 #start-yoga {
+background-color: #fab73d;
+
     margin: 30px;
     font-size: 160%;
     text-align: center;
 }
 
 .move-left {
+    background-color: aquamarine;
+
     height: 400px;
-    width: 45%;
-    margin-left: 100px;
+    width: 75%;
+
+    margin-left: 30px;
+
+    text-align: center;
+
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
     justify-content: space-evenly;
+
+    position: absolute;
+    
 }
 
-.content-image {
+.image-size {
     height: 400px;
     width: 300px;
-    background-color: aqua;
+
+    background-color: aqua; 
+
+    
+    float: right;
+
+    position: relative;
+    
+    width: 35%;
 }
 
 .image-size>img {
     height: 100%;
     width: 100%;
+
     object-fit: contain;
+
     overflow: none;
 }
 
-.conttent {
-    height: 500px;
-    width: 100%;
-}
 
-.floating-content {
-    width: 50%;
-}
+
