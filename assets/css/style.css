@@ -143,14 +143,14 @@ h2 {
 /* Yoga content ----*/
 
 #start-yoga {
-background-color: #fab73d;
+    background-color: #fab73d;
 
     margin: 30px;
     font-size: 160%;
     text-align: center;
 }
 
-.conent-container{
+.conent-container {
     background-color: coral;
 
     display: flex;
@@ -174,7 +174,7 @@ background-color: #fab73d;
     justify-content: space-evenly;
 
     /* position: absolute; */
-    
+
 }
 
 .image-size {
@@ -184,13 +184,13 @@ background-color: #fab73d;
     margin-left: 5px;
     margin-right: 30px;
 
-    background-color: aqua; 
+    background-color: aqua;
 
-    
+
     /* float: right; */
-    
+
     /* position: relative; */
-    
+
     width: 35%;
 }
 
@@ -203,5 +203,20 @@ background-color: #fab73d;
     overflow: none;
 }
 
+.content-container2 {
+    background-color: #fab73d;
 
+    margin-top: 30px;
+    margin-left: 30px;
+}
 
+.content-container2>h2 {
+    text-align: center;
+}
+
+.content-container2 >p {
+    
+    text-align: center;
+
+    margin: 5px;
+}
