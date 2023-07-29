@@ -282,8 +282,23 @@ footer>div {
        
 }
 
-.gallery-comtainer{
+ /* Gallery */
+ 
+ .header-container {
+     height: 80px;
+     width: 100%;
+ }
+
+.gallery-container img {
     
+    width: 400px;
+    height: 300px;   
+
 }
+
+.gallery-container{
+   
+}
+
 
 
