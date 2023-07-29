@@ -261,6 +261,9 @@ td {
 
     height: 100px;
     width: 100%;
+ 
+    
+    bottom: 0px;  /* keeps footer to the bottom*/
 
 }
 
@@ -317,8 +320,9 @@ footer>div {
 
 /*   Form  */
 
-.Form-container {
+.background-container {
 
+    
    height: 1080px;
    width: 100%;
 
