@@ -249,8 +249,29 @@ th, td {
 
 /* Footer */
 
-#footer-container {
-    
+.footer-container {
+    background-color: cadetblue;
+
+    height: 100px;
+    width: 100%;
+
+}
+
+footer>div {
+    padding-top: 20px;
+}
+
+.social-media {
+
+    list-style-type: none;
+    text-decoration: none;
+
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+
+    font-size: 200%;
+       
 }
 
 
