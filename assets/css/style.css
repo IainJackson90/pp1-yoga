@@ -106,10 +106,9 @@ h2 {
 
 #cover-text,
 #cover-text h2 {
+
     color: #fab73d;
     font-family: 'Spectral', serif;
-
-
 }
 
 #cover-text {
@@ -314,4 +313,21 @@ footer>div {
     flex-wrap: wrap;
     justify-content: center;
 
+}
+
+/*   Form  */
+
+.Form-container {
+
+   height: 1080px;
+   width: 100%;
+
+}
+
+#form-background {
+
+    background: url(../images/max-van-den-oetelaar-buymYm3RQ3U-unsplash.jpg) no-repeat center center;
+    height: 100%;
+    background-size: cover;
+   
 }
