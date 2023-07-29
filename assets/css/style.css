@@ -41,10 +41,10 @@ h2 {
 
 #menu {
 
-display: flex; 
-float: right;
+    display: flex;
+    float: right;
 
-  font-size: 160%;
+    font-size: 160%;
     font-weight: bold;
     letter-spacing: 2px;
     color: black;
@@ -94,14 +94,12 @@ float: right;
 
 #hero-image {
     /* have to make this responsive to divrent sizes ........ */
-    
+
     height: 100%;
     width: 100%;
     background: url(../images/2400-finding-peace-within-woman-meditating-in-cross-legged-yoga-pose-ai-generated.jpg) no-repeat;
     background-size: cover;
-    background-position:bottom 20% center
-    
-   
+    background-position: bottom 20% center
 }
 
 /* Cover text */
@@ -229,7 +227,7 @@ float: right;
     text-align: center;
 }
 
-.content-container2 >p {
+.content-container2>p {
 
     text-align: center;
 
@@ -252,7 +250,8 @@ float: right;
     margin: 30px;
 }
 
-th, td {
+th,
+td {
     padding: 5px;
 }
 
@@ -279,26 +278,40 @@ footer>div {
     justify-content: space-evenly;
 
     font-size: 200%;
-       
+
 }
 
- /* Gallery */
- 
- .header-container {
-     height: 80px;
-     width: 100%;
- }
+/* Gallery */
+
+.header-container {
+    /* to stop imagages to overflow into header */
+    height: 75px;
+    width: 100%;
+
+    margin-bottom: 30px;
+}
 
 .gallery-container img {
-    
+
     width: 400px;
-    height: 300px;   
+    height: 300px;
+
+    padding: 3px;
 
 }
 
-.gallery-container{
-   
+.gallery-container {
+    background-color: aqua;
+
+    margin-bottom: 30px;
+
+    min-height: 1080px;
+    /* come back to this must be easier way */
+    /* how to make footer stay at the bottom */
+
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
 }
-
-
-
