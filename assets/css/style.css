@@ -87,11 +87,14 @@ h2 {
 
 #hero-image {
     /* have to make this responsive to divrent sizes ........ */
+    
     height: 100%;
     width: 100%;
     background: url(../images/2400-finding-peace-within-woman-meditating-in-cross-legged-yoga-pose-ai-generated.jpg) no-repeat;
     background-size: cover;
-    background-position: bottom center;
+    background-position:bottom 20% center
+    
+   
 }
 
 /* Cover text */
