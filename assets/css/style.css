@@ -270,7 +270,7 @@ td {
 /* ------------------------- Footer ----------------------------*/
 
 .footer-container {
-    background-color: cadetblue;
+    
 
     height: 100px;
     width: 100%;
@@ -294,8 +294,17 @@ footer>div {
     justify-content: space-evenly;
 
     font-size: 200%;
-
+      
 }
+
+.link-style {
+    color: #fab73d;
+}
+
+.link-style:hover {
+    text-shadow: 2px 2px #b2c6b1;
+}
+
 
 /* -------------------- Gallery -------------------- */
 
