@@ -394,3 +394,11 @@ footer>div {
 
     border-radius: 0px 10px 0px 0px;
 }
+
+.location {
+
+    width: 460px;
+    border:  1px solid black;
+    
+    border-radius: 0px 0px 10px 0px;
+}
