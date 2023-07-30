@@ -172,15 +172,13 @@ hr {
 .conent-container {
 
     font-size: 120%;
-    
-    background-color: coral;
-
+       
     display: flex;
     justify-content: space-evenly;
 }
 
 .move-left {
-    background-color: aquamarine;
+    
 
     height: 400px;
     width: 65%;
@@ -209,6 +207,7 @@ hr {
     width: 35%;
 
     border: 1px solid #b2c6b1;
+    border-radius: 10px 10px 10px 10px;
 }
 
 .image-size>img {
@@ -216,18 +215,18 @@ hr {
     width: 100%;
 
     object-fit: fill;
-
+    border-radius: 10px 10px 10px 10px;
     overflow: none;
 }
 
 /* -------------------- Second half of content.. content container 2------- */
 
 .content-container2 {
-    background-color: #fab73d;
-
+    
     margin-top: 30px;
     margin-left: 30px;
     margin-right: 30px;
+    font-size: 120%;
 }
 
 .content-container2>h2 {
@@ -246,15 +245,21 @@ hr {
 /* ---------------- Table Opening and Closing hours ---------------*/
 
 .opening-hours {
-    background-color: cornflowerblue;
 
-    margin: 30px;
+    font-size: 120%;
+
 }
 
 .opening-hours>h2 {
     text-align: center;
 
     margin: 30px;
+}
+
+.scedual {
+
+    text-align: center;
+    margin: 0 auto;
 }
 
 th,
