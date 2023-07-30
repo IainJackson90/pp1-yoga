@@ -356,7 +356,12 @@ footer>div {
 }
 
 #form {
-    background-color: chartreuse;
+   
+    background: linear-gradient(135deg, rgba(225, 225, 225, 0.1), rgba(225, 225, 225, 0));
+        backdrop-filter: blur(30px);
+        -webkit-backdrop-filter: blur(30px);
+
+        color: #fab73d;
 
     height: 400px;
     width: 400px;
@@ -365,18 +370,24 @@ footer>div {
     border-left: black 1px solid;
     border-top: black 1px solid;
     border-bottom: black 1px solid;
-    
+
     border-radius: 10px 0px 0px 10px;
+
+}
+legend>h2 {
+
+  color:#fab73d;
 
 }
 
 
 .form-container {
+    
 
     display: flex;
     position: absolute ;
     bottom: 35%;
-    margin-left: 30px;
+    margin-left: 35%;
 
 }
 
@@ -409,21 +420,38 @@ footer>div {
 .join {
 
     height: 40px;
-    width: 120px;
+    width: 200px;
+
+    border-radius: 10px;
+
+    color: #fab73d;
+    font-size: 20px;
 
     margin-top: 5px;
 
     display: block;
 }
 
+.join:hover {
+
+    box-shadow: 2px 2px #b2c6b1;
+    background-color: #fab73d;
+    color: white;
+
+}
+
 .contact-info {
-    background-color: blueviolet;
+
+    background: linear-gradient(135deg, rgba(225, 225, 225, 0.1), rgba(225, 225, 225, 0));
+    backdrop-filter: blur(30px);
+    -webkit-backdrop-filter: blur(30px); 
 
     height: 200px;
     width: 460px;
 
     font-size: 20px;
     text-align: center;
+    color: #fab73d;
 
     border-top: 1px solid black;
     border-right: 1px solid black;
@@ -431,7 +459,17 @@ footer>div {
     border-radius: 0px 10px 0px 0px;
 }
 
+.contact-info>h2 {
+  
+    color: #fab73d;
+
+}
+
 .location {
+
+    background: linear-gradient(135deg, rgba(225, 225, 225, 0.1), rgba(225, 225, 225, 0));
+        backdrop-filter: blur(10px);
+        -webkit-backdrop-filter: blur(10px);
 
     height: 260px;
     width: 460px;
