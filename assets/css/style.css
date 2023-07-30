@@ -12,7 +12,7 @@ body {
     font-family: Arial;
     font-family: 'Spectral', serif;
     font-weight: 350;
-    background: #ffffff;
+    background: rgb(248, 245, 245);
 }
 
 /*-------------------------- Heagings and Logo ---------------------*/
@@ -128,7 +128,7 @@ h2 {
 
     position: absolute;
 
-    /* Animation of covr-text*/
+    /* ----Animation of covr-text-----*/
 
     animation: cover-text-breathe 8s infinite;
 }
@@ -192,9 +192,7 @@ hr {
     flex-direction: column;
     justify-content: flex-start;
     justify-content: space-evenly;
-
-    /* position: absolute; */
-
+   
 }
 
 .image-size {
@@ -313,7 +311,7 @@ footer>div {
     height: 75px;
     width: 100%;
 
-    margin-bottom: 30px;
+    margin-bottom: 5px;
 }
 
 .gallery-container img {
@@ -326,17 +324,13 @@ footer>div {
 }
 
 .gallery-container {
-    background-color: aqua;
-
+    
     margin-bottom: 30px;
 
     min-height: 1080px;
-    /* come back to this must be easier way */
-    /* how to make footer stay at the bottom */
-
-
+    
     display: flex;
-    flex-wrap: wrap;   /* sort out wrap spacing */
+    flex-wrap: wrap;   
     justify-content: center;
 
 }
@@ -364,13 +358,18 @@ footer>div {
 #form {
     background-color: chartreuse;
 
+    height: 400px;
     width: 400px;
     padding: 30px;
 
-    border: black 1px solid;
+    border-left: black 1px solid;
+    border-top: black 1px solid;
+    border-bottom: black 1px solid;
+    
     border-radius: 10px 0px 0px 10px;
 
 }
+
 
 .form-container {
 
@@ -424,16 +423,21 @@ footer>div {
     width: 460px;
 
     font-size: 20px;
+    text-align: center;
 
-    border: 1px solid black;
+    border-top: 1px solid black;
+    border-right: 1px solid black;
 
     border-radius: 0px 10px 0px 0px;
 }
 
 .location {
 
+    height: 260px;
     width: 460px;
-    border:  1px solid black;
+
+    border-right:  1px solid black;
+    border-bottom: 1px solid black;
     
     border-radius: 0px 0px 10px 0px;
 }
