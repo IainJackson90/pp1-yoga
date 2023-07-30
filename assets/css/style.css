@@ -326,6 +326,7 @@ footer>div {
 
     height: 1080px;
     width: 100%;
+    position: relative;
 
 }
 
@@ -334,6 +335,7 @@ footer>div {
     background: url(../images/max-van-den-oetelaar-buymYm3RQ3U-unsplash.jpg) no-repeat center center;
     height: 100%;
     background-size: cover;
+    
 
 }
 
@@ -347,6 +349,17 @@ footer>div {
     border-radius: 10px 0px 0px 10px;
 
 }
+
+.form-container {
+
+    display: flex;
+    position: absolute ;
+    bottom: 35%;
+    margin-left: 30px;
+
+}
+
+
 
 #legend {
 
