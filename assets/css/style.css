@@ -504,6 +504,7 @@ legend>h2 {
 
         /************* come back to this *****************/
 
+
     }
 
     #hero-image {
@@ -511,9 +512,17 @@ legend>h2 {
 
     }
 
-    #cover-text {}
+    #cover-text {
+
+        font-size: 100%;
+        /* top: unset; */
+        padding-left: 42px;
+        right: auto;
+        top: 60px;
+    }
 
     /*---------------------  Yoga content ----------------------*/
+
 
     #start-yoga {
 
@@ -523,7 +532,7 @@ legend>h2 {
     }
 
     .conent-container {
-      
+
         font-size: 130%;
 
         display: flex;
@@ -536,7 +545,7 @@ legend>h2 {
         height: 100%;
         width: 95%;
 
-        margin: 0 auto ;
+        margin: 0 auto;
 
     }
 
