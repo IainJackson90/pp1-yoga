@@ -19,16 +19,16 @@ body {
 
 h1,
 h2 {
+
     font-family: 'Spectral', serif;
     text-transform: uppercase;
     letter-spacing: 4px;
     color: black;
-    /*text-shadow: 1px 1px #ffd082;*/
+    
 }
 
 #logo {
-    background-color: yellowgreen;
-
+    
     margin-left: 30px;
     letter-spacing: 8px;
     font-weight: bold;
@@ -70,14 +70,14 @@ h2 {
 }
 
 #menu a:hover {
-    /* text-shadow: 1px 1px #ffd082;*/
-    /* come back to this.......... */
+   
     font-size: 105%;
 }
 
 .active {
+
     border-bottom: 1px solid #b2c6b1;
-    /* come back to this.......... */
+    
 }
 
 /*----------------------------------- Hero Image ------------------------*/
@@ -152,14 +152,16 @@ h2 {
 /* -------------  Yoga content... content container ----------------*/
 
 #start-yoga {
-    background-color: #fab73d;
 
-    margin: 30px;
+    margin: 10px 30px 30px 30px;
     font-size: 160%;
     text-align: center;
 }
 
 .conent-container {
+
+    font-size: 120%;
+    
     background-color: coral;
 
     display: flex;
@@ -207,7 +209,7 @@ h2 {
     height: 100%;
     width: 100%;
 
-    object-fit: contain;
+    object-fit: fill;
 
     overflow: none;
 }
