@@ -1,4 +1,4 @@
-/* inital css , fonts, *, body */
+/*--------------------------- inital css , fonts, *, body ----------------*/
 
 @import url('https://fonts.googleapis.com/css2?family=Spectral:wght@300&display=swap');
 
@@ -15,7 +15,7 @@ body {
     background: #ffffff;
 }
 
-/* Heagings and Logo */
+/*-------------------------- Heagings and Logo ---------------------*/
 
 h1,
 h2 {
@@ -36,7 +36,7 @@ h2 {
     float: left;
 }
 
-/* Navigation links */
+/*-------------------------- Navigation links -----------------------*/
 
 
 #menu {
@@ -80,7 +80,7 @@ h2 {
     /* come back to this.......... */
 }
 
-/* Hero Image */
+/*----------------------------------- Hero Image ------------------------*/
 
 #hero-image-outer {
     height: 700px;
@@ -102,7 +102,7 @@ h2 {
     background-position: bottom 20% center
 }
 
-/* Cover text */
+/*--------------------- Cover text ----------------------------*/
 
 #cover-text,
 #cover-text h2 {
@@ -133,7 +133,7 @@ h2 {
     animation: cover-text-breathe 8s infinite;
 }
 
-/* Cover-text breathing efect */
+/*-----------------  Cover-text breathing efect -----------------------*/
 
 @keyframes cover-text-breathe {
     0% {
@@ -149,7 +149,7 @@ h2 {
     }
 }
 
-/* Yoga content... content container ----*/
+/* -------------  Yoga content... content container ----------------*/
 
 #start-yoga {
     background-color: #fab73d;
@@ -212,7 +212,7 @@ h2 {
     overflow: none;
 }
 
-/* Second half of content.. content container 2 */
+/* -------------------- Second half of content.. content container 2------- */
 
 .content-container2 {
     background-color: #fab73d;
@@ -235,7 +235,7 @@ h2 {
     margin: 5px;
 }
 
-/* Table Opening and Closing hours */
+/* ---------------- Table Opening and Closing hours ---------------*/
 
 .opening-hours {
     background-color: cornflowerblue;
@@ -254,16 +254,17 @@ td {
     padding: 5px;
 }
 
-/* Footer */
+/* ------------------------- Footer ----------------------------*/
 
 .footer-container {
     background-color: cadetblue;
 
     height: 100px;
     width: 100%;
- 
-    
-    bottom: 0px;  /* keeps footer to the bottom*/
+
+
+    bottom: 0px;
+    /* keeps footer to the bottom*/
 
 }
 
@@ -283,7 +284,7 @@ footer>div {
 
 }
 
-/* Gallery */
+/* -------------------- Gallery -------------------- */
 
 .header-container {
     /* to stop imagages to overflow into header */
@@ -313,18 +314,18 @@ footer>div {
 
 
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: wrap;   /* sort out wrap spacing */
     justify-content: center;
 
 }
 
-/*  --------------------- Form  -----------------*/
+/*  -------------------------------- Form  --------------------------*/
 
 .background-container {
 
-    
-   height: 1080px;
-   width: 100%;
+
+    height: 1080px;
+    width: 100%;
 
 }
 
@@ -333,28 +334,35 @@ footer>div {
     background: url(../images/max-van-den-oetelaar-buymYm3RQ3U-unsplash.jpg) no-repeat center center;
     height: 100%;
     background-size: cover;
-   
+
 }
 
 #form {
     background-color: chartreuse;
-    
+
     width: 400px;
-    padding: 30px ;
+    padding: 30px;
 
     border: black 1px solid;
-    border-radius: 10px 0px 0px 10px ;
-   
+    border-radius: 10px 0px 0px 10px;
+
+}
+
+#legend {
+
+    margin-bottom: 10px;
+    font-size: 20px;
+    text-align: center;
 }
 
 .input {
 
-       width: 100%;
-       height: 40px;
+    width: 100%;
+    height: 40px;
 
-       font-size: 20px;
+    font-size: 20px;
 
-       border-radius: 10px;
+    border-radius: 10px;
 
 }
 
@@ -374,9 +382,15 @@ footer>div {
     display: block;
 }
 
-#legend {
-    
-    margin-bottom: 10px;
+.contact-info {
+    background-color: blueviolet;
+
+    height: 200px;
+    width: 460px;
+
     font-size: 20px;
-    text-align: center;
+
+    border: 1px solid black;
+
+    border-radius: 0px 10px 0px 0px;
 }
