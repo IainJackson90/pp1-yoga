@@ -49,75 +49,67 @@
 
     </div>
 
-    <div class="form-container">
+    <form class="form-container" action="">
+        <!--  Need to come back to action and method -->
 
-        <div id="form">
+        <fieldset>
+            <legend id="legend">
+                <h2>Sign Up</h2>
+            </legend>
 
-            <form action="">
-                <!--  Need to come back to action and method -->
+            <label class="label" for="fname">First Name</label>
+            <input class="input" id="fname" type="text" name="first_name" required>
 
-                <fieldset>
-                    <legend id="legend">
-                        <h2>Sign Up</h2>
-                    </legend>
+            <label class="label" for="lname">Last Name</label>
+            <input class="input" id="lname" type="text" name="last_name" required>
 
-                    <label class="label" for="fname">First Name</label>
-                    <input class="input" id="fname" type="text" name="first_name" required>
+            <label class="label" for="email">Email</label>
+            <input class="input" id="email" type="email" name="email_address" required>
 
-                    <label class="label" for="lname">Last Name</label>
-                    <input class="input" id="lname" type="text" name="last_name" required>
+            <label class="label" for="outdoor">Outdoor</label>
+            <input id="outdoor" type="radio" name="class_preference" value="outdoor" required>
 
-                    <label class="label" for="email">Email</label>
-                    <input class="input" id="email" type="email" name="email_address" required>
+            <label class="label" for="indoor">Indoor</label>
+            <input id="indoor" type="radio" name="class_preference" value="indoor">
 
-                    <label class="label" for="outdoor">Outdoor</label>
-                    <input id="outdoor" type="radio" name="class_preference" value="outdoor" required>
-
-                    <label class="label" for="indoor">Indoor</label>
-                    <input id="indoor" type="radio" name="class_preference" value="indoor">
-
-                    <label class="label" for="both">Both</label>
-                    <input id="both" type="radio" name="class_preference" value="both">
+            <label class="label" for="both">Both</label>
+            <input id="both" type="radio" name="class_preference" value="both">
 
 
-                    <input class="join" type="submit" value="Join">
+            <input class="join" type="submit" value="Join">
 
-                </fieldset>
+        </fieldset>
 
-            </form>
-        </div>
+    </form>
 
-        <div class="conact-us">
+    <div class="contact-info">
 
-            <div class="contact-info">
-
-                <h2>Contact Us</h2>
-                <p>
-                    Tel: 015394 88600
-                </p>
-                <p>
-                    Email: yoga@googlemail.co.uk
-                </p>
-                <p>
-                    Address: LA23 3JA
-                    Crook Rd Windermere Cumbria
-                </p>
-
-            </div>
-
-            <div class="location">
-
-                <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5757.898129214533!2d-1.1551340518408288!3d52.64375674112341!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487760f289fc65f9%3A0xa5362a935212c7b7!2sStokeswood%20Park!5e0!3m2!1sen!2suk!4v1690710246939!5m2!1sen!2suk"
-                    width="460" height="260" style="border-radius:0px 0px 10px 0px;" allowfullscreen="" loading="lazy"
-                    referrerpolicy="no-referrer-when-downgrade">
-                </iframe>
-                
-            </div>
-
-        </div>
+        <h2>Contact Us</h2>
+        <p>
+            Tel: 015394 88600
+        </p>
+        <p>
+            Email: yoga@googlemail.co.uk
+        </p>
+        <p>
+            Address: LA23 3JA
+            Crook Rd Windermere Cumbria
+        </p>
 
     </div>
+
+    <div class="location">
+
+        <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5757.898129214533!2d-1.1551340518408288!3d52.64375674112341!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487760f289fc65f9%3A0xa5362a935212c7b7!2sStokeswood%20Park!5e0!3m2!1sen!2suk!4v1690710246939!5m2!1sen!2suk"
+            width="460" height="260" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+        </iframe>
+
+    </div>
+
+
+
+
 
     <!------------------------------ Footer Social links ---------------------------->
 
@@ -127,12 +119,14 @@
 
             <ul class="social-media">
                 <li>
-                    <a class="link-style" href="https://facebook.com" rel="noopener" target="_blank" aria-label="Visit our Facebook page">
+                    <a class="link-style" href="https://facebook.com" rel="noopener" target="_blank"
+                        aria-label="Visit our Facebook page">
                         <i class="fa-brands fa-facebook-f"></i>
                     </a>
                 </li>
                 <li>
-                    <a class="link-style" href="https://twitter.com" rel="noopener" target="_blank" aria-label="Visit our Twitter page">
+                    <a class="link-style" href="https://twitter.com" rel="noopener" target="_blank"
+                        aria-label="Visit our Twitter page">
                         <i class="fa-brands fa-twitter"></i>
                     </a>
                 </li>
@@ -143,7 +137,8 @@
                     </a>
                 </li>
                 <li>
-                    <a class="link-style" href="https://youtube.com" rel="noopener" target="_blank" aria-label="Visit our Youtube page">
+                    <a class="link-style" href="https://youtube.com" rel="noopener" target="_blank"
+                        aria-label="Visit our Youtube page">
                         <i class="fa-brands fa-youtube"></i>
                     </a>
                 </li>
