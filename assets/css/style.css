@@ -597,6 +597,7 @@ legend>h2 {
         height: 43px;
         width: 100%;
         margin-bottom: 10px;
+        font-size: 120%; /*----------------- come back to this -----------*/
 
     }
 
