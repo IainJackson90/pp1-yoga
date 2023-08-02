@@ -359,12 +359,12 @@ footer>div {
 
 }
 
-/* 
+
 #form {
 
-    background: linear-gradient(135deg, rgba(225, 225, 225, 0.1), rgba(225, 225, 225, 0));
-    backdrop-filter: blur(30px);
-    -webkit-backdrop-filter: blur(30px);
+     /* background: linear-gradient(135deg, rgba(225, 225, 225, 0.1), rgba(225, 225, 225, 0)); 
+    backdrop-filter: blur(30px); */
+    /* -webkit-backdrop-filter: blur(30px);
 
     color: #fab73d;
 
@@ -376,9 +376,9 @@ footer>div {
     border-top: black 1px solid;
     border-bottom: black 1px solid;
 
-    border-radius: 10px 0px 0px 10px;
+    border-radius: 10px 0px 0px 10px; */
 
-} */
+} 
 
 legend>h2 {
 
@@ -394,8 +394,9 @@ legend>h2 {
     max-width: 447px;
     margin: 50px 1% 0% 1%;
     top: 100px;
-    
-
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+   
 }
 
 
@@ -462,6 +463,8 @@ legend>h2 {
     font-size: 20px;
     text-align: center;
     color: #fab73d;
+    background-color: rgba(0, 0, 0, 0.3);
+        border-radius: 10px;
 
 }
 
