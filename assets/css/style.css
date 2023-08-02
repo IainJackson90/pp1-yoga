@@ -6,7 +6,7 @@
     margin: 0;
     padding: 0;
     border: none;
-    }
+}
 
 body {
     font-family: Arial;
@@ -19,16 +19,13 @@ body {
 
 h1,
 h2 {
-
     font-family: 'Spectral', serif;
     text-transform: uppercase;
     letter-spacing: 4px;
     color: black;
-
 }
 
 #logo {
-
     margin-left: 30px;
     letter-spacing: 8px;
     font-weight: bold;
@@ -43,7 +40,6 @@ h2 {
 
     display: flex;
     float: right;
-
     font-size: 160%;
     font-weight: bold;
     letter-spacing: 2px;
@@ -55,7 +51,6 @@ h2 {
 }
 
 #menu li {
-
     margin-top: 10px;
     float: right;
     list-style-type: none;
@@ -64,20 +59,16 @@ h2 {
 
 
 #menu a {
-
     text-decoration: none;
     color: inherit;
 }
 
 #menu a:hover {
-
     font-size: 105%;
 }
 
 .active {
-
     border-bottom: 1px solid #b2c6b1;
-
 }
 
 /*----------------------------------- Hero Image ------------------------*/
@@ -89,11 +80,9 @@ h2 {
     position: relative;
     border-top: 1px solid #b2c6b1;
     border-bottom: 1px solid #b2c6b1;
-   }
+}
 
-#hero-image {
-    /* have to make this responsive to divrent sizes ........ */
-
+#hero-image {    
     height: 100%;
     width: 100%;
     background: url(../images/hero-img.jpg) no-repeat;
@@ -115,19 +104,14 @@ h2 {
     font-size: 110%;
     font-weight: bold;
     letter-spacing: 1px;
-
     width: 300px;
     height: 200px;
-
     padding-top: 40px;
     padding-left: 10px;
-
     bottom: 80px;
     right: 100px;
-
     background-color: rgba(0, 0, 0, 0.2);
-        border-radius: 30px;
-
+    border-radius: 30px;
     position: absolute;
 
     /* ----Animation of covr-text-----*/
@@ -154,16 +138,13 @@ h2 {
 /* -------------  Yoga content... content container ----------------*/
 
 #start-yoga {
-
     margin: 10px 30px 30px 30px;
     font-size: 160%;
     text-align: center;
-    width: 100%;
-
+    width: 90%;
 }
 
 hr {
-
     border-top: 1px solid #b2c6b1;
     margin: 5px 0;
     width: 25%;
@@ -172,40 +153,29 @@ hr {
 }
 
 .conent-container {
-
     font-size: 120%;
-
     display: flex;
     justify-content: space-evenly;
 }
 
 .move-left {
-
-
     height: 400px;
     width: 65%;
-
     margin-left: 30px;
     margin-right: 5px;
-
     text-align: center;
-
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
     justify-content: space-evenly;
-
 }
 
 .image-size {
     height: 400px;
     width: 300px;
-
     margin-left: 5px;
     margin-right: 30px;
-
     width: 35%;
-
     border: 1px solid #b2c6b1;
     border-radius: 10px 10px 10px 10px;
 }
@@ -213,7 +183,6 @@ hr {
 .image-size>img {
     height: 100%;
     width: 100%;
-
     object-fit: fill;
     border-radius: 10px 10px 10px 10px;
     overflow: none;
@@ -222,7 +191,6 @@ hr {
 /* -------------------- Second half of content.. content container 2------- */
 
 .content-container2 {
-
     margin-top: 30px;
     margin-left: 30px;
     margin-right: 30px;
@@ -234,30 +202,23 @@ hr {
 }
 
 .content-container2>p {
-
     text-align: center;
-
     line-height: normal;
-
     margin: 5px;
 }
 
 /* ---------------- Table Opening and Closing hours ---------------*/
 
 .opening-hours {
-
     font-size: 120%;
-
 }
 
 .opening-hours>h2 {
     text-align: center;
-
     margin: 30px;
 }
 
 .scedual {
-
     text-align: center;
     margin: 0 auto;
 }
@@ -270,14 +231,9 @@ td {
 /* ------------------------- Footer ----------------------------*/
 
 .footer-container {
-
-
     height: 100px;
     width: 100%;
-
-
     bottom: 0px;
-   
 }
 
 footer>div {
@@ -285,13 +241,10 @@ footer>div {
 }
 
 .social-media {
-
     list-style-type: none;
     text-decoration: none;
-
     display: flex;
     justify-content: space-evenly;
-
     font-size: 200%;
 
 }
@@ -308,222 +261,166 @@ footer>div {
 /* -------------------- Gallery -------------------- */
 
 .header-container {
-      height: 75px;
+    height: 75px;
     width: 100%;
-
     margin-bottom: 5px;
 }
 
 .gallery-container img {
-
     max-width: 600px;
     max-height: 600px;
-
     padding: 3px;
-
 }
 
 .gallery-container {
-
     margin-bottom: 30px;
-
     min-height: 1080px;
-
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-
 }
 
 /*  -------------------------------- Form  --------------------------*/
 
 .background-container {
-
-
     height: 900px;
     width: 100%;
     position: relative;
     overflow: hidden;
-
 }
 
 #form-background {
-
     background: url(../images/form-backgroun-image.jpg) no-repeat center center;
     height: 100%;
     background-size: cover;
     clear: left;
-
-
 }
 
 legend>h2 {
-
     color: #fab73d;
-
 }
 
 
 .form-container {
-
     position: absolute;
-
     max-width: 447px;
     margin: 50px 1% 0% 1%;
     top: 100px;
     background-color: rgba(0, 0, 0, 0.3);
     border-radius: 10px;
-   
 }
 
 
-
 #legend {
-
     margin-bottom: 10px;
     font-size: 20px;
     text-align: center;
 }
 
 .input {
-
     width: 100%;
     height: 40px;
-
     font-size: 20px;
-
     border-radius: 10px;
-
 }
 
 .label {
-
     font-size: 20px;
     padding: 5px;
     color: #fab73d;
 }
 
 .join {
-
     height: 40px;
     width: 200px;
-
     border-radius: 10px;
-
     color: #fab73d;
     font-size: 20px;
-
     margin-top: 5px;
-
     display: block;
 }
 
 .join:hover {
-
     box-shadow: 2px 2px #b2c6b1;
     background-color: #fab73d;
     color: white;
-
 }
 
 .contact-info {
-
     position: absolute;
-
     max-width: 400px;
     margin: 50px 1% 0% 1%;
     top: 475px;
-
     min-height: 200px;
     max-width: 460px;
-
     font-size: 20px;
     text-align: center;
     color: #fab73d;
     background-color: rgba(0, 0, 0, 0.3);
-        border-radius: 10px;
-
+    border-radius: 10px;
 }
 
 .contact-info>h2 {
-
     color: #fab73d;
-
 }
 
 /*-------------------- @Media ---------------------*/
-   
+
 
 @media screen and (max-width: 950px) {
 
     /*-------------- Header ---------------------*/
 
     #logo {
-
         margin-left: 10px;
         margin-top: 20px;
-
     }
 
     #menu {
         font-size: 130%;
         margin-bottom: 10px;
-             
     }
 
-.nav-bar {
+    .nav-bar {
+        margin-right: 5px;
+        margin-left: 10px;
+    }
 
-   margin-right: 5px;
-   margin-left: 10px;
-
-}   
     #hero-image {
         width: 100%;
         overflow: hidden;
-
     }
 
     #cover-text {
-
         font-size: 100%;
-          padding-left: 5px;
+        padding-left: 5px;
         right: auto;
         top: 60px;
-            margin-left: 29px;
+        margin-left: 29px;
     }
 
     /*---------------------  Yoga content ----------------------*/
 
 
     #start-yoga {
-
         font-size: 130%;
         margin: 0 auto;
-
     }
 
     .conent-container {
-
         font-size: 130%;
-
         display: flex;
         flex-direction: column;
-
     }
 
     .move-left {
-
         height: 100%;
         width: 95%;
-
         margin: 0 auto;
-
     }
 
     hr {
-
         width: 95%;
-
     }
 
     p {
@@ -531,69 +428,50 @@ legend>h2 {
     }
 
     .image-size {
-
         width: 99%;
         margin-left: 0px;
-
     }
 
     .opening-hours>h2 {
-
         margin: 10px auto;
-
     }
 
     /*----------------- Gallery---------------*/
 
     .gallery-container {
-
         flex-direction: column;
-
     }
 
     #menu {
-
         height: 43px;
         width: 100%;
         margin-bottom: 10px;
-        font-size: 130%; /*----------------- come back to this -----------*/
-
+        font-size: 130%;
     }
 
     .gallery-container {
-
         height: 100%;
         width: 99%;
         flex-wrap: nowrap;
-
     }
 
     .gallery-container>img {
-
         max-width: 100%;
         max-height: 400px;
         padding: 1px;
-
     }
-
-   
- 
 }
 
 @media screen and (max-width: 320px) {
 
     #menu {
-    
-            height: 43px;
-            width: 100%;
-            margin-bottom: 10px;
-            font-size: 105%;
+        height: 43px;
+        width: 100%;
+        margin-bottom: 10px;
+        font-size: 105%;
     }
 
-        #cover-text {
-    
-            padding-left: 2px;
-    
-        }
-
+    #cover-text {
+        padding-left: 2px;
+    }
 }
