@@ -185,7 +185,7 @@ hr {
     width: 100%;
     object-fit: fill;
     border-radius: 10px 10px 10px 10px;
-    overflow: none;
+    overflow: hidden;
 }
 
 /* -------------------- Second half of content.. content container 2------- */
