@@ -538,7 +538,8 @@ legend>h2 {
         padding-left: 5px;
         right: auto;
         top: 60px;
-        margin: 10px;
+        /* margin: 10px; */
+        margin-left: 29px;
     }
 
     /*---------------------  Yoga content ----------------------*/
