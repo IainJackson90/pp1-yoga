@@ -485,28 +485,7 @@ legend>h2 {
 } */
 
 /*-------------------- @Media ---------------------*/
-
-  @media screen and (max-width: 320px) {
-
-      #cover-text {
-
-          padding-left: 0;
-
-      }
-
-
-  }
-
-
-   @media screen and (max-width: 768px) {
-
-    #gallery-container {
-
-
-    }
-
-   }
-
+   
 
 @media screen and (max-width: 950px) {
 
@@ -730,5 +709,11 @@ legend>h2 {
             margin-bottom: 10px;
             font-size: 105%;
     }
+
+        #cover-text {
+    
+            padding-left: 0;
+    
+        }
 
 }
