@@ -485,6 +485,19 @@ legend>h2 {
 
 /*-------------------- @Media ---------------------*/
 
+  @media screen and (max-width: 320px) {
+
+      #cover-text {
+
+          padding-left: 0;
+
+      }
+
+
+  }
+
+
+
 @media screen and (max-width: 950px) {
 
     /*-------------- Header ---------------------*/
@@ -616,6 +629,8 @@ legend>h2 {
         padding: 1px;
 
     }
+
+      
 
     /*------------------------ Form -------------------------------*/
 
