@@ -33,7 +33,7 @@ h2 {
     float: left;
 }
 
-/*------------------------ Navigation links -----------------------*/
+/*---------------------------- Navigation links -----------------------*/
 
 
 #menu {
@@ -71,7 +71,7 @@ h2 {
     border-bottom: 1px solid #b2c6b1;
 }
 
-/*----------------------------------- Hero Image ------------------------*/
+/*------------------------------ Hero Image ------------------------*/
 
 #hero-image-outer {
     height: 700px;
@@ -90,7 +90,7 @@ h2 {
     background-position: bottom 20% center
 }
 
-/*--------------------- Cover text ----------------------------*/
+/*------------------------------- Cover text ----------------------------*/
 
 #cover-text,
 #cover-text h2 {
@@ -119,7 +119,7 @@ h2 {
     animation: cover-text-breathe 8s infinite;
 }
 
-/*-----------------  Cover-text breathing efect -----------------------*/
+/*---------------------  Cover-text breathing efect -----------------------*/
 
 @keyframes cover-text-breathe {
     0% {
@@ -135,7 +135,7 @@ h2 {
     }
 }
 
-/* -------------  Yoga content... content container ----------------*/
+/* ---------------------  Yoga content... content container ----------------*/
 
 #start-yoga {
     margin: 10px 30px 30px 30px;
@@ -207,7 +207,7 @@ hr {
     margin: 5px;
 }
 
-/* ---------------- Table Opening and Closing hours ---------------*/
+/* ----------------------- Table Opening and Closing hours ---------------*/
 
 .opening-hours {
     font-size: 120%;
@@ -228,7 +228,7 @@ td {
     padding: 5px;
 }
 
-/* ------------------------- Footer ----------------------------*/
+/* ----------------------------------- Footer ----------------------------*/
 
 .footer-container {
     height: 100px;
@@ -258,7 +258,7 @@ footer>div {
 }
 
 
-/* -------------------- Gallery -------------------- */
+/* ----------------------------------- Gallery -------------------------- */
 
 .header-container {
     height: 75px;
@@ -364,12 +364,12 @@ legend>h2 {
     color: #fab73d;
 }
 
-/*-------------------- @Media ---------------------*/
+/*---------------------------------- @Media -----------------------------*/
 
 
 @media screen and (max-width: 950px) {
 
-    /*-------------- Header ---------------------*/
+    /*------------------------------ Header ----------------------------*/
 
     #logo {
         margin-left: 10px;
@@ -399,7 +399,7 @@ legend>h2 {
         margin-left: 29px;
     }
 
-    /*---------------------  Yoga content ----------------------*/
+    /*------------------------  Yoga content ----------------------*/
 
 
     #start-yoga {
@@ -436,7 +436,7 @@ legend>h2 {
         margin: 10px auto;
     }
 
-    /*----------------- Gallery---------------*/
+    /*------------------------------ Gallery-----------------------*/
 
     .gallery-container {
         flex-direction: column;
