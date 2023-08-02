@@ -129,7 +129,7 @@ h2 {
     right: 100px;
 
     background-color: rgba(0, 0, 0, 0.2);
-        border-radius: 50px;
+        border-radius: 30px;
 
     position: absolute;
 
@@ -535,10 +535,10 @@ legend>h2 {
 
         font-size: 100%;
         /* top: unset; */
-        padding-left: 12px;
-        right: 16px;
+        padding-left: 0px;
+        right: auto;
         top: 60px;
-        margin: 6px;
+        margin: 10px;
     }
 
     /*---------------------  Yoga content ----------------------*/
