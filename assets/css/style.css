@@ -6,9 +6,7 @@
     margin: 0;
     padding: 0;
     border: none;
-    /* outline: 1px red solid; */
-    /* overflow: hidden; */
-}
+    }
 
 body {
     font-family: Arial;
@@ -91,8 +89,7 @@ h2 {
     position: relative;
     border-top: 1px solid #b2c6b1;
     border-bottom: 1px solid #b2c6b1;
-    /* to help position cover-text */
-}
+   }
 
 #hero-image {
     /* have to make this responsive to divrent sizes ........ */
@@ -280,8 +277,7 @@ td {
 
 
     bottom: 0px;
-    /* keeps footer to the bottom*/
-
+   
 }
 
 footer>div {
@@ -312,8 +308,7 @@ footer>div {
 /* -------------------- Gallery -------------------- */
 
 .header-container {
-    /* to stop imagages to overflow into header */
-    height: 75px;
+      height: 75px;
     width: 100%;
 
     margin-bottom: 5px;
@@ -361,27 +356,6 @@ footer>div {
 
 
 }
-
-
-#form {
-
-     /* background: linear-gradient(135deg, rgba(225, 225, 225, 0.1), rgba(225, 225, 225, 0)); 
-    backdrop-filter: blur(30px); */
-    /* -webkit-backdrop-filter: blur(30px);
-
-    color: #fab73d;
-
-    height: 400px;
-    width: 400px;
-    padding: 30px;
-
-    border-left: black 1px solid;
-    border-top: black 1px solid;
-    border-bottom: black 1px solid;
-
-    border-radius: 10px 0px 0px 10px; */
-
-} 
 
 legend>h2 {
 
@@ -476,19 +450,6 @@ legend>h2 {
     color: #fab73d;
 
 }
-/* 
-.location-container {
-
-      position: absolute;
-       top:665px; 
-    margin: 50px 1% 0% 1%;
-}
-
-.location {
-
-    
-
-} */
 
 /*-------------------- @Media ---------------------*/
    
@@ -507,8 +468,7 @@ legend>h2 {
     #menu {
         font-size: 130%;
         margin-bottom: 10px;
-        /* margin: 0px -10px 0px 0px; */
-        
+             
     }
 
 .nav-bar {
@@ -516,15 +476,7 @@ legend>h2 {
    margin-right: 5px;
    margin-left: 10px;
 
-}
-
-    #hero-image-outer {
-
-        /************* come back to this *****************/
-
-
-    }
-
+}   
     #hero-image {
         width: 100%;
         overflow: hidden;
@@ -534,12 +486,10 @@ legend>h2 {
     #cover-text {
 
         font-size: 100%;
-        /* top: unset; */
-        padding-left: 5px;
+          padding-left: 5px;
         right: auto;
         top: 60px;
-        /* margin: 10px; */
-        margin-left: 29px;
+            margin-left: 29px;
     }
 
     /*---------------------  Yoga content ----------------------*/
@@ -626,85 +576,8 @@ legend>h2 {
 
     }
 
-      
-
-    /*------------------------ Form -------------------------------*/
-
-    /* .background-container {
-
-        min-height: 100px;
-        width: 100%;
-
-    }
-
-    #form-background {
-
-        margin-top: 70px;
-
-    }
-
-    .form-container {
-
-        flex-direction: column;
-        
-        margin: 32px 0% 56% 6px;
-
-        max-height: 100px
-    }
-
-    #form {
-
-        width: 285px;
-        border-top: 1px solid black;
-        border-bottom: none;
-        border-right: 1px solid black;
-        border-left: 1px solid black;
-
-        border-radius: 10px 10px 0px 0px;
-
-    }
-
-
-    .contact-info {
-
-        width: 345px;
-        border-top: none;
-        border-bottom: none;
-        border-right: 1px solid black;
-        border-left: 1px solid black;
-
-        border-radius: 0px 0px 0px 0px;
-
-
-    }
-
-    .contact-info>p {
-
-        margin: 0pc;
-
-    }
-
-    .location {
-
-        width: 345px;
-        height: 406px;
-
-        border-top: none;
-        border-bottom: 1px solid black;
-        border-left: 1px solid black;
-        border-right: 1px solid black;
-
-        border-radius: 0px 0px 10px 10px;
-    }
-
-    iframe {
-
-        width: 100%;
-        height: 100%;
-        border-radius: 0px 0px 10px 10px;
-
-    } */
-
+   
+ 
 }
 
 @media screen and (max-width: 320px) {
