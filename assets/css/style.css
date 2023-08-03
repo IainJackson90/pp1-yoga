@@ -361,7 +361,7 @@ legend>h2 {
 }
 
 .contact-info>h2 {
-    color: #fab73d;
+        text-decoration: none;
 }
 
 /*--------------------------------- Thank-You----------------------------*/
@@ -384,6 +384,23 @@ legend>h2 {
 
 .thank-you>h2 {
     color: #fab73d;
+}
+
+.button-container{
+    text-align: center;
+    margin-top: -20px;
+    height: 45px;
+    width: 150px;
+    background-color: #fab73d;
+    border-radius: 10px;
+ }
+
+.home-button-link {
+       text-decoration: none;
+}
+
+.button-container:hover {
+    box-shadow: 2px 2px #b2c6b1 ;
 }
 
 
@@ -487,6 +504,7 @@ legend>h2 {
     /*----------------------------- Than-you ---------------------*/
 
     .thank-you {
+        max-height: 300px;
         top: 100px;
         left: 1px;
         margin: 5px;
