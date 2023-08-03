@@ -364,6 +364,29 @@ legend>h2 {
     color: #fab73d;
 }
 
+/*--------------------------------- Thank-You----------------------------*/
+
+.thank-you {
+    max-height:250px;
+    max-width: 400px;
+    border-radius: 10px;
+    color: #fab73d;
+    font-size: 20px;
+    margin-top: 5px;
+    display: block;
+    position: absolute;
+    top: 10%;
+    left: 30px;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    padding: 25px;
+ }
+
+.thank-you>h2 {
+    color: #fab73d;
+}
+
+
 /*---------------------------------- @Media -----------------------------*/
 
 
