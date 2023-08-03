@@ -384,11 +384,12 @@ legend>h2 {
 
 .thank-you>h2 {
     color: #fab73d;
+    margin-bottom: -20px;
 }
 
 .button-container{
     text-align: center;
-    margin-top: -20px;
+    margin-top: -10px;
     height: 45px;
     width: 150px;
     background-color: #fab73d;
