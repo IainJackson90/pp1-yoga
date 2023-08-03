@@ -296,7 +296,7 @@ footer>div {
     clear: left;
 }
 
-legend>h2 {
+#legend>h2 {
     color: #fab73d;
 }
 
@@ -361,7 +361,7 @@ legend>h2 {
 }
 
 .contact-info>h2 {
-        text-decoration: none;
+    color: #fab73d;
 }
 
 /*--------------------------------- Thank-You----------------------------*/
