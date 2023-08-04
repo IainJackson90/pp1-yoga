@@ -31,8 +31,24 @@ The website is designed to be user friendly, simple and responsive.
     underneath the logo on smaller screen sizes
   - Each page has the navigation bar exept the thank you page
   - When hoveriong over the navigation bar the tex font will increas in size to
-    make it visualy more simple to see whitc page you want to select
+    make it visualy more simple to see whitch page you want to select
   - The nav bar will also have a undrline to show whitch page you are currently
     viewign.  
    
     ![Navigation bar](./assets/docs/nav-bar.png)
+
+- _Landing page image_
+  
+  - The landing page is picture about capturing peace and being mindfull and in 
+    the moment setting the mood for the website
+  - It also will give an idia of what the content of the website is about 
+    
+    ![Hero Image](./assets/docs/hero-image-readme.png)
+    
+  - Ontop of the landing page image is a animation that does a breathing efect
+    trying to simulate a deep breath in and a long breath out.
+  - the animation is on the bottom right on larger screen sizes and will move 
+    to the top left on smaller screen sizes
+    
+    ![Cover text](./assets/docs/cover-text.png)
+
