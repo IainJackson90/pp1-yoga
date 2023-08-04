@@ -52,3 +52,24 @@ The website is designed to be user friendly, simple and responsive.
     
     ![Cover text](./assets/docs/cover-text.png)
 
+- _Why you should start YOGA section_
+
+  - This section is about good health benifits you will start to feel 
+  - it gives the user a idia of ehat to expect when they do yoga
+  - it will provide usifill information to the user if yoga is what hey are looking to do
+ 
+    ![Why start YOGA](./assets/docs/why-start-yoga.PNG)
+    
+  - On the right of the content is a picture, on larger screens it will display on the right
+    and on the smaller screen sizes it will display underneath the "why you should start yoga"
+    section
+
+    ![YOGA section picture](./assets/docs/man-yoga-section.png)
+
+- _Facilities and Operating hours_
+  
+  - This section will provde infromation to the user of what they can expct to find
+    when they join the classes
+  - It will also disply a table of operating hours 
+
+    ![YOGA section picture](./assets/docs/what-we-do.png)
