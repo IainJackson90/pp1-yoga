@@ -9,3 +9,30 @@ a place to conect with nature or just relax in a sauna.
 We have many facilities avalable to be used at your own descretion.
 
 ![Am I Responsive](./assets/docs/am-i-responsive.png)
+
+## Features
+
+The website is designed to be user friendly, simple and responsive.
+
+## Exsiting Features 
+
+- _Logo_
+
+  - The logo is a link to the home page , displayed on each page of the webpage.
+  - It is intended as a home panic button
+
+    ![Logo](./assets/docs/logo.png)
+    
+- _Navigation Bar_
+  
+  - The navigation bar has links to three pages to make navigating trough the 
+     website simple.
+  - The navbar is displayed on the top right on larger screen sizes and displayed
+    underneath the logo on smaller screen sizes
+  - Each page has the navigation bar exept the thank you page
+  - When hoveriong over the navigation bar the tex font will increas in size to
+    make it visualy more simple to see whitc page you want to select
+  - The nav bar will also have a undrline to show whitch page you are currently
+    viewign.  
+   
+    ![Navigation bar](./assets/docs/nav-bar.png)
