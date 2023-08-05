@@ -201,7 +201,7 @@ All CSS has been validated and is free from errors
 
 # Deployment
 
-  This site was deployed to GitHub and these are the steps that was taken to do so:
+This site was deployed to GitHub and these are the steps that was taken to do so:
 
 1. Log into GitHub
 2. Navigate to repository (Left top corner)
@@ -209,7 +209,7 @@ All CSS has been validated and is free from errors
 4. Settings (Nav bar at the top)
 5. Pages (Left side menu)
 6. Branch(Select main and folder as Root)
- 7. Save
+7. Save
 
 Wait a while for it GitHub to deploy the webpage, when it is done it wil show
 the link at the top
@@ -218,7 +218,7 @@ the link at the top
 
 - ## _Cloning the GitHub repository_
 
-  This will download a full copy to your desktop
+This will download a full copy to your desktop
 
 1. Log into GitHub
 2. Find the repository you wish to clone
@@ -233,7 +233,7 @@ the link at the top
 
 - ## _Forking the GitHub repository_
 
-  Will allow you to create a copy of the repository so changes can be made that will not affect the original repository.
+Will allow you to create a copy of the repository so changes can be made that will not affect the original repository.
 
 1. Log into GitHub
 2. Find the repository you wish to fork
