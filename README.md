@@ -21,7 +21,7 @@ The website is designed to be user friendly, simple and responsive.
   - The logo is a link to the home page , displayed on each page of the webpage.
   - It is intended as a home panic button
 
-    ![Logo](./assets/docs/logo.png)
+![Logo](./assets/docs/logo.png)
     
 - _Navigation Bar_
   
@@ -35,7 +35,7 @@ The website is designed to be user friendly, simple and responsive.
   - The nav bar will also have a undrline to show whitch page you are currently
     viewign.  
    
-    ![Navigation bar](./assets/docs/nav-bar.png)
+![Navigation bar](./assets/docs/nav-bar.png)
 
 - _Landing page image_
   
@@ -43,14 +43,14 @@ The website is designed to be user friendly, simple and responsive.
     the moment setting the mood for the website
   - It also will give an idia of what the content of the website is about 
     
-    ![Hero Image](./assets/docs/hero-image-readme.png)
+![Hero Image](./assets/docs/hero-image-readme.png)
     
   - Ontop of the landing page image is a animation that does a breathing efect
     trying to simulate a deep breath in and a long breath out.
   - the animation is on the bottom right on larger screen sizes and will move 
     to the top left on smaller screen sizes
     
-    ![Cover text](./assets/docs/cover-text.png)
+![Cover text](./assets/docs/cover-text.png)
 
 - _Why you should start YOGA section_
 
@@ -58,13 +58,13 @@ The website is designed to be user friendly, simple and responsive.
   - it gives the user a idia of ehat to expect when they do yoga
   - it will provide usifill information to the user if yoga is what hey are looking to do
  
-    ![Why start YOGA](./assets/docs/why-start-yoga.PNG)
+![Why start YOGA](./assets/docs/why-start-yoga.PNG)
     
   - On the right of the content is a picture, on larger screens it will display on the right
     and on the smaller screen sizes it will display underneath the "why you should start yoga"
     section
 
-    ![YOGA section picture](./assets/docs/man-yoga-section.png)
+![YOGA section picture](./assets/docs/man-yoga-section.png)
 
 - _Facilities and Operating hours_
   
@@ -72,4 +72,14 @@ The website is designed to be user friendly, simple and responsive.
     when they join the classes
   - It will also disply a table of operating hours 
 
-    ![YOGA section picture](./assets/docs/what-we-do.png)
+![Facilities and Operating hours](./assets/docs/what-we-do.png)
+
+- _The Footer_
+   
+   - The footer is available on each page 
+   - The footer has social meadi links 
+   - The social links has a pop up animathin when you hover over them to give a button feeling
+
+![Facilities and Operating hours](./assets/docs/footer.png)
+
+   
