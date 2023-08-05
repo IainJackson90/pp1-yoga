@@ -228,6 +228,9 @@ the link at the top
   6. Paste the URl into the space provided
   7. Click "Create"
 
+![Git Cloning](./assets/docs/git-cloning.png)
+![Codeanywhere Workspace](./assets/docs/codeanywhere-cloning.png)
+
 - ## _Forking the GitHub repository_
 
   Will allow you to create a copy of the repository so changes can be made that will not affect the original repository.
@@ -237,6 +240,7 @@ the link at the top
   3. Find the "Fork" drop down in the top right corner second from last
   4. Select "Create"  
 
+![Forking](./assets/docs/fork.png)
 
 # Technologies Used
 
