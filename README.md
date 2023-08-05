@@ -203,13 +203,13 @@ All CSS has been validated and is free from errors
 
 - ## _This site was deployed to GitHub and these are the steps that was taken to do so:_
 
-  1. Log into GitHub
-  2. Navigate to repository (Left top corner)
-  3. Select the project  (The top let corner)
-  4. Settings (Nav bar at the top)
-  5. Pages (Left side menu)
-  6. Branch(Select main and folder as Root)
-  7. Save
+1. Log into GitHub
+2. Navigate to repository (Left top corner)
+3. Select the project  (The top let corner)
+4. Settings (Nav bar at the top)
+5. Pages (Left side menu)
+6. Branch(Select main and folder as Root)
+ 7. Save
 
 Wait a while for it GitHub to deploy the webpage, when it is done it wil show
 the link at the top
@@ -220,13 +220,13 @@ the link at the top
 
   This will download a full copy to your desktop
 
-  1. Log into GitHub
-  2. Find the repository you wish to clone
-  3. Find the green code button top right corner
-  4. Select "Local", copy the HTTPS URL
-  5. Go to Codeanywhere and navigate to "New Workspace"
-  6. Paste the URl into the space provided
-  7. Click "Create"
+1. Log into GitHub
+2. Find the repository you wish to clone
+3. Find the green code button top right corner
+4. Select "Local", copy the HTTPS URL
+5. Go to Codeanywhere and navigate to "New Workspace"
+6. Paste the URl into the space provided
+7. Click "Create"
 
 ![Git Cloning](./assets/docs/git-cloning.png)
 ![Codeanywhere Workspace](./assets/docs/codeanywhere-cloning.png)
@@ -235,10 +235,10 @@ the link at the top
 
   Will allow you to create a copy of the repository so changes can be made that will not affect the original repository.
 
-  1. Log into GitHub
-  2. Find the repository you wish to fork
-  3. Find the "Fork" drop down in the top right corner second from last
-  4. Select "Create"  
+1. Log into GitHub
+2. Find the repository you wish to fork
+3. Find the "Fork" drop down in the top right corner second from last
+4. Select "Create"  
 
 ![Forking](./assets/docs/fork.png)
 
