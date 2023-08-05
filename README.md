@@ -201,7 +201,7 @@ All CSS has been validated and is free from errors
 
 # Deployment
 
-- ## _This site was deployed to GitHub and these are the steps that was taken to do so:_
+  This site was deployed to GitHub and these are the steps that was taken to do so:
 
 1. Log into GitHub
 2. Navigate to repository (Left top corner)
