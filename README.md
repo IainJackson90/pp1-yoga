@@ -104,3 +104,48 @@ The website is designed to be user friendly, simple and responsive.
   - Have live online YOGA classes
   - Hvae a motivational mindfullnes content section
   - Have a coment section where users can rate there classes
+
+## Testing
+
+While building the webpage i have incounterd some bugs:
+
+- _Bugs I Encounterd_
+   
+   - Nav Bar
+    
+     - The navigation bar did not display in the order it was intended or in the order
+       i have placed them in the html page.
+       I fixed this bi placing the nav bar into a flex-box, it changed the order
+       to how i intended it to be.
+       
+   - Hero image 
+     
+     - The hero image is a large size whitch has a impact on the performanse, i have
+       made a consius dession to keep it this way for qauality aof the image and also 
+       the image fit the content of this page very well
+     - The hero image looked very dull over the background so i added a thin border to make 
+       it stank out more to give it contrass
+       
+   - why you should start yoga
+     - The content and imagage I had in  two seprate divs and strugled to get the content
+       and picture to work corectly together with sizing when i change screen sizes,
+       I found placing both of the divs into a flex-box i manage to get the content
+       and the picture be responsive to the idia i had.
+     - The Picture is not displayed in the native reselotion it is a bit stretched 
+       and caouses a performance isue, I feel the image does not look visualy unpleasing
+       and i need it to be the size it is to fit the content.
+       
+   - Gallery
+  
+     - The gallery images was overflowing into the head of the page,
+       I fixed it by giving the head of the page a fixed hight and a margin bottom 
+       whitch pushed all the gallery images down away from the head of the page 
+       
+   - sing Up Form
+
+     - The sign up form had some contrass problems so i gave the div a transparent 
+       dark background so the user can see the contetn better and not take away the 
+       ambioance of the background 
+       
+    
+     
