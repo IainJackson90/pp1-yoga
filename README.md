@@ -194,3 +194,25 @@ Whait a wile for it GitHub to deploy the webpage, when it is done it wil show
 the link at thw top
 
 ![GitHub](./assets/docs/github.png)
+
+# Tecnoligies Used
+
+## Html
+## Css
+## [Google Fonts](https://fonts.google.com/)
+## Chrome dev tools
+## [TinyPNG](https://tinypng.com/)
+## [Font Awsome](https://fontawesome.com/)
+## [Coneanywhere](https://codeanywhere.com/)
+## [GitHub](https://github.com/)
+## [Color Contrast Accessibility Validator](https://color.a11y.com/)
+## [W3C Markup Validation](https://validator.w3.org/)
+## [W3C CSS Validation](https://jigsaw.w3.org/css-validator/)
+## [FREEFORMATTER](https://www.freeformatter.com/)  For HTM and CSS
+## [Am I Responsive](https://ui.dev/amiresponsive)
+
+# Credits
+
+
+
+
