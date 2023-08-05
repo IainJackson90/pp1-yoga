@@ -80,6 +80,27 @@ The website is designed to be user friendly, simple and responsive.
    - The footer has social meadi links 
    - The social links has a pop up animathin when you hover over them to give a button feeling
 
-![Facilities and Operating hours](./assets/docs/footer.png)
+![Footer](./assets/docs/footer.png)
 
+- _Gallery_
+  
+  - The gallery will have images of what the classes will look like 
+  - this section will provide the user with visual content describing what to expect
+  - The gallery is responsive and will arange content dependent on screen size 
+  
+  ![Gallery](./assets/docs/gallery.png)
    
+- _Sign Up Page_
+
+  - This page gives the user a opertunity to sing up for a class ither indoor
+    or outdoor classes
+  - it also contains contakt information fot he user if they feel to get in touch
+    for any aditional information 
+
+![Sign-Up](./assets/docs/sign-up.png)
+
+- _Features left to implement_
+  
+  - Have live online YOGA classes
+  - Hvae a motivational mindfullnes content section
+  - Have a coment section where users can rate there classes
