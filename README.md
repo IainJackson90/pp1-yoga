@@ -177,3 +177,20 @@ All CSS has been validated and is free from erros
 ## [Contrast Validator](https://color.a11y.com/)
 
 ![Conrtast validator](./assets/docs/contrast.png)
+
+# Deployment
+
+- _This site was deployed to GitHub and these are the steps that was taken to do so:_
+
+  - Log into GitHub
+  - Navigate to repository (Left top corner)
+  - Select the project  (The top let corner)
+  - Settings (Nav bar at the top)
+  - Pages (Left side menue)
+  - Branch(Slect main and folder as Root)
+  - Save
+  
+Whait a wile for it GitHub to deploy the webpage, when it is done it wil show 
+the link at thw top
+
+![GitHub](./assets/docs/github.png)
