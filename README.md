@@ -10,7 +10,7 @@ We have many facilities avalable to be used at your own descretion.
 
 ![Am I Responsive](./assets/docs/am-i-responsive.png)
 
-## Features
+# Features
 
 The website is designed to be user friendly, simple and responsive.
 
@@ -58,7 +58,7 @@ The website is designed to be user friendly, simple and responsive.
   - it gives the user a idia of ehat to expect when they do yoga
   - it will provide usifill information to the user if yoga is what hey are looking to do
  
-![Why start YOGA](./assets/docs/why-start-yoga.PNG)
+![Why start YOGA](./assets/docs/why-start-yoga.png)
     
   - On the right of the content is a picture, on larger screens it will display on the right
     and on the smaller screen sizes it will display underneath the "why you should start yoga"
@@ -105,7 +105,7 @@ The website is designed to be user friendly, simple and responsive.
   - Hvae a motivational mindfullnes content section
   - Have a coment section where users can rate there classes
 
-## Testing
+# Testing
 
 While building the webpage i have incounterd some bugs:
 
@@ -148,4 +148,32 @@ While building the webpage i have incounterd some bugs:
        ambioance of the background 
        
     
-     
+# Validator Testing 
+
+I put the website trough a series of validators to make sure it conforms to a valid 
+standard here are the tests and resaults 
+
+## [HTML Validattor ](https://validator.w3.org/)
+
+All the html pages was validated and had noe errors, oonly had warnings about 
+the comments i left in the purposefully to help navigate trough the code easier
+
+![HTML Validaror](./assets/docs/html-validator.png)
+
+## [CSS Validator](https://jigsaw.w3.org/css-validator/)
+
+All CSS has been validated and is free from erros
+
+![CSS Validator](./assets/docs/css-validator.png)
+
+## Lighthouse testing for desktop
+
+![Lighthouse Test Desktop](./assets/docs/lighthouse.png)
+
+## Lighthouse testing for mobile 
+
+![Lighthouse test Mobile](./assets/docs/lighthouse-mobile.png)
+
+## [Contrast Validator](https://color.a11y.com/)
+
+![Conrtast validator](./assets/docs/contrast.png)
