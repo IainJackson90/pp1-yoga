@@ -211,8 +211,43 @@ the link at thw top
 ## [FREEFORMATTER](https://www.freeformatter.com/)  For HTM and CSS
 ## [Am I Responsive](https://ui.dev/amiresponsive)
 
+## [fakexy](https://www.fakexy.com/ )
+
+## Snipping Tool
+
 # Credits
 
+- Code Instetute for the learning content provided 
+- Harry my asinged mentor to give advise on the project 
+- Nicole Jackson a student at code instetute for constructive criticism
+- Slack comunity 
+- [w3schools](https://www.w3schools.com/) for guidense about hero image and table desing 
+- [stackoverflow](https://stackoverflow.com/) for guidence about Flex bob
+- [Kevin Powell](https://www.youtube.com/watch?v=6yAAV-uP0po&t=275s) for guidence about flex box
+- [Kevin Powell](https://www.youtube.com/watch?v=6yAAV-uP0po&t=275s) for guidence to resize images
+
+
+ ## Content
+
+ - Font from this wepage was taken from Google Fonts "Spectral"
+ - The icons on the page was taken from Font Awsome
+-  [SUSANNE RIEKER](https://susannerieker.com/10-color-schemes-for-your-wellness-or-yoga-website/) Theme   color insperation
+- [Motherhood Community](https://motherhoodcommunity.com/20-quotes-that-will-make-you-want-to-breathe-more-deeply-and-intentionally/) for the mindfullness qoute
+- [HipFonts](https://hipfonts.com/yoga-fonts/?expand_article=1) insperation of font style
+- [FLORIN POP](https://www.florin-pop.com/blog/2019/03/css-pulse-effect/) guidence for Cover text breathing effect
+- [hopkinsmedicine](https://www.hopkinsmedicine.org/health/wellness-and-prevention/9-benefits-of-yoga) guidense on health benifits of YOGO
+
+
+## Media
+  
+  - _Picks found on_
+    
+    - [Vecteezy](https://www.vecteezy.com/)
+    - [freepik](https://www.freepik.com/)
+    - [Unsplash](https://unsplash.com/)
+    - [PIKWIZARD](https://pikwizard.com/)
+    - [rawpixel](https://www.rawpixel.com/)
+  
 
 
 
