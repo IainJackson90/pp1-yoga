@@ -14,8 +14,12 @@ We have many facilities available to be used at your own discretion.
 
 When the user loads the webpage you will be introduced by a descriptive logo and landing image that immediately sets the mood of the webpage.
 The cover text on the landing image has a breathing affect and a comment of breathing, it will subconsciously get you thinking about your breathing.
-The color theme of the webpage is designed to be soft and relaxing giving you a feeling of space and time and that there is no rush it sets a peaceful ambiance.
+The color theme of the webpage is designed to be soft and relaxing giving you a feeling of space and time and that there is no rush, it sets a peaceful ambiance.
 all the navigation is designed to be smooth and user friendly in a stress free environment leading up to the signup form.
+
+## Colors uesd for the webpage
+
+![Color of webpage](./assets/docs/webpage-color.png)
 
 # Features
 
@@ -229,6 +233,7 @@ the link at the top
 - [Am I Responsive](https://ui.dev/amiresponsive)
 - [fakexy](https://www.fakexy.com/ )
 - [Google Docs](https://docs.google.com/document/u/0/)
+- [imagecolorpicker](https://imagecolorpicker.com/)
 - Snipping Tool
 
 # Credits
