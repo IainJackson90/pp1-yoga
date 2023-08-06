@@ -34,7 +34,7 @@ _Sign Up_
 
 ![Sign Up Wireframe](./assets/docs/wireframe-form.png)
 
-## Colors uesd for the webpage
+## Colors used for the webpage
 
 This is the colors I chose to use for the website
 
@@ -81,7 +81,7 @@ The website is designed to be user friendly, simple and responsive.
 
 - On Top of the landing page image is a animation that does a breathing effect
     trying to simulate a deep breath in and a long breath out.
-- the animation is on the bottom right on larger screen sizes and will move
+- The animation is on the bottom right on larger screen sizes and will move
     to the top left on smaller screen sizes
 
 ![Cover text](./assets/docs/cover-text.png)
@@ -89,8 +89,8 @@ The website is designed to be user friendly, simple and responsive.
 - _Why you should start YOGA section_
 
   - This section is about good health benefits you will start to feel
-  - it gives the user a idea of what to expect when they do yoga
-  - it will provide useful information to the user if yoga is what hey are looking to do
+  - It gives the user a idea of what to expect when they do yoga
+  - It will provide useful information to the user if yoga is what hey are looking to do
 
 ![Why start YOGA](./assets/docs/why-start-yoga.png)
 
@@ -119,7 +119,7 @@ The website is designed to be user friendly, simple and responsive.
 - _Gallery_
 
   - The gallery will have images of what the classes will look like
-  - this section will provide the user with visual content describing what to expect
+  - This section will provide the user with visual content describing what to expect
   - The gallery is responsive and will arrange content dependent on screen size
 
   ![Gallery](./assets/docs/gallery.png)
@@ -128,19 +128,19 @@ The website is designed to be user friendly, simple and responsive.
 
   - This page gives the user an opportunity to sign up for a class other indoor
     or outdoor classes
-  - it also contains contact information for the user if they feel to get in touch
+  - It also contains contact information for the user if they feel to get in touch
     for any additional information
   - This page will not accept the wrong input type
-  - the join button will pop up and change color when you hover over it
-  - when completing the form it will direct you to a thank you page
+  - The join button will pop up and change color when you hover over it
+  - When completing the form it will direct you to a thank you page
 
 ![Sign-Up](./assets/docs/sign-up.png)
 
 - _Thank You Page_
 
   - This page will have a thank you message for the user
-  - it will have a home button to direct the user back to the home page
-  - the button will have a pop up effect when you hover over it
+  - It will have a home button to direct the user back to the home page
+  - The button will have a pop up effect when you hover over it
 
 ![Thank You](./assets/docs/thank-you.png)
 
@@ -172,7 +172,7 @@ While building the webpage i have encountered some bugs:
     - The hero image looked very dull over the background so i added a thin border to make
        it stank out more to give it contrass  
 
-  - why you should start yoga
+  - Why you should start yoga
   
     - The content and image I had in  two separate divs and struggled to get the content
        and picture to work correctly together with sizing when i change screen sizes,
@@ -188,9 +188,9 @@ While building the webpage i have encountered some bugs:
        I fixed it by giving the head of the page a fixed height and a margin bottom
        which pushed all the gallery images down away from the head of the page
 
-  - sing Up Form
+  - Sign Up Form
 
-    - The sign up form had some contrast problems so i gave the div a transparent
+    - The sign up form had some contrast problems so I gave the div a transparent
        dark background so the user can see the content better and not take away the
        ambiance of the background
 
@@ -212,7 +212,7 @@ standard here are the tests and results
 
 ## [HTML Validattor](https://validator.w3.org/)
 
-All the html pages was validated and had noe errors, only had warnings about
+All the html pages was validated and had no errors, only had warnings about
 the comments i left in the purposefully to help navigate through the code easier
 
 ![HTML Validator](./assets/docs/html-validator.png)
@@ -261,7 +261,7 @@ This will download a full copy to your desktop
 3. Find the green code button top right corner
 4. Select "Local", copy the HTTPS URL
 5. Go to Codeanywhere and navigate to "New Workspace"
-6. Paste the URl into the space provided
+6. Paste the URL into the space provided
 7. Click "Create"
 
 ![Git Cloning](./assets/docs/git-cloning.png)
@@ -286,7 +286,7 @@ Will allow you to create a copy of the repository so changes can be made that wi
 - Chrome dev tools
 - [TinyPNG](https://tinypng.com/)
 - [Font Awsome](https://fontawesome.com/)
-- [Coneanywhere](https://codeanywhere.com/)
+- [Codeanywhere](https://codeanywhere.com/)
 - [GitHub](https://github.com/)
 - [Color Contrast Accessibility Validator](https://color.a11y.com/)
 - [W3C Markup Validation](https://validator.w3.org/)
@@ -323,7 +323,7 @@ Will allow you to create a copy of the repository so changes can be made that wi
 
 ## Media
 
-- _Picks found on_
+- _Pictures found on_
 
   - [Vecteezy](https://www.vecteezy.com/)
   - [freepik](https://www.freepik.com/)
