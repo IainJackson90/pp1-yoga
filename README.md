@@ -19,7 +19,7 @@ all the navigation is designed to be smooth and user friendly in a stress free e
 
 ## Colors uesd for the webpage
 
-This is the colors i chose to use for the website
+This is the colors I chose to use for the website
 
 ![Coolors](./assets/docs/color-pallet.png)
 
@@ -283,8 +283,8 @@ Will allow you to create a copy of the repository so changes can be made that wi
 # Credits
 
 - Code Institute for the learning content provided
-- Harry my assigned mentor to give advise on the project
-- Nicole Jackson a student at code institute for constructive criticism
+- Harry Dhillon my assigned mentor to give advise on the project
+- Nicole Jackson my wife a student at code institute for constructive criticism
 - Slack community
 - [w3schools](https://www.w3schools.com/) for guidance about hero image and table design
 - [stackoverflow](https://stackoverflow.com/) for guidance about Flex bob
