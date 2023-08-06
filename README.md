@@ -17,6 +17,23 @@ The cover text on the landing image has a breathing affect and a comment of brea
 The color theme of the webpage is designed to be soft and relaxing giving you a feeling of space and time and that there is no rush, it sets a peaceful ambiance.
 all the navigation is designed to be smooth and user friendly in a stress free environment leading up to the signup form.
 
+## Wireframe
+
+For the layout of the web page I went with a simple design having a user friendly experience in mind.The design has deviated from the original wireframe design as new ideas came to mind as well as making it more responsive.
+The design of the thank you page was only thought of after.
+
+_Main Page_
+
+![Main Page Wireframe](./assets/docs/wireframe-mainpage.png)
+
+_Gallery_
+
+![Gallery Wireframe](./assets/docs/wireframe-gallery.png)
+
+_Sign Up_
+
+![Sign Up Wireframe](./assets/docs/wireframe-form.png)
+
 ## Colors uesd for the webpage
 
 This is the colors I chose to use for the website
@@ -278,6 +295,7 @@ Will allow you to create a copy of the repository so changes can be made that wi
 - [Google Docs](https://docs.google.com/document/u/0/)
 - [imagecolorpicker](https://imagecolorpicker.com/)
 - [coolors](https://coolors.co/)
+- Microsoft Paint
 - Snipping Tool
 
 # Credits
