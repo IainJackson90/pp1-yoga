@@ -164,21 +164,23 @@ While building the webpage i have encountered some bugs:
        to how I intended it to be.
 
   - Hero image
-
-    - The hero image is a large size which has a impact on the performance, i have
+       
+    - The hero image is a large size which has a impact on the performance aswell as the best practices score  
+       on lighthouse, I have
        made a conscious decision to keep it this way for quality of the image and also
        the image fit the content of this page very well
     - The hero image looked very dull over the background so i added a thin border to make
-       it stank out more to give it contrass
+       it stank out more to give it contrass  
 
   - why you should start yoga
+  
     - The content and image I had in  two separate divs and struggled to get the content
        and picture to work correctly together with sizing when i change screen sizes,
        I found placing both of the divs into a flex-box i manage to get the content
        and the picture be responsive to the idea i had.
     - The Picture is not displayed in the native resolution it is a bit stretched
-       and causes a performance issue, I feel the image does not look visually unpleasing
-       and i need it to be the size it is to fit the content.
+       and causes a performance issue aswell as the best practices score on lighthouse, I feel the image does not look visually unpleasing
+       and I need it to be the size it is to fit the content.
 
   - Gallery
 
