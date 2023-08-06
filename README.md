@@ -19,6 +19,12 @@ all the navigation is designed to be smooth and user friendly in a stress free e
 
 ## Colors uesd for the webpage
 
+This is the colors i chose to use for the website
+
+![Coolors](./assets/docs/color-pallet.png)
+
+This is the color pallet of the website 
+
 ![Color of webpage](./assets/docs/webpage-color.png)
 
 # Features
@@ -271,6 +277,7 @@ Will allow you to create a copy of the repository so changes can be made that wi
 - [fakexy](https://www.fakexy.com/ )
 - [Google Docs](https://docs.google.com/document/u/0/)
 - [imagecolorpicker](https://imagecolorpicker.com/)
+- [coolors](https://coolors.co/)
 - Snipping Tool
 
 # Credits
