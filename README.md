@@ -137,7 +137,7 @@ While building the webpage i have encountered some bugs:
 
     - The navigation bar did not display in the order it was intended or in the order
        I have placed them in the html page.
-       I fixed this bi placing the nav bar into a flex-box, it changed the order
+       I fixed this by placing the nav bar into a flex-box, it changed the order
        to how I intended it to be.
 
   - Hero image
@@ -168,6 +168,17 @@ While building the webpage i have encountered some bugs:
     - The sign up form had some contrast problems so i gave the div a transparent
        dark background so the user can see the content better and not take away the
        ambiance of the background
+
+## Manual Testing
+
+| What was tested | Result |
+|:---:|:---:|
+|Home page navigation bar was used - navigate through website|Worked like it was intended to|
+|Logo was clicked on each page - brings you back to home page|worked like it was intended to do|
+|Social media links - Opens up in a new tab|Worked like it was intended to|
+|Form inputs - Would not accept the wrong input or no value|Worked like it was intended to
+|Thank you page home link - Send you back to the home page|Worked like it was intended to
+
 
 # Validator Testing
 
